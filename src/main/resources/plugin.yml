@@ -1,0 +1,12 @@
+name: HoloHpBar
+version: '${project.version}'
+main: me.noogs.holohpbar.HoloHpBar
+api-version: 1.18
+author: [Noogs]
+depend: [TagAPI]
+description: HoloHPBar For Minecraft 1.18.1
+commands:
+  hhb:
+    description: HoloHPBar Command
+    usage: /<command>
+

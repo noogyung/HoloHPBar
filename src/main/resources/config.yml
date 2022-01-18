@@ -1,0 +1,20 @@
+#Default Settings
+HP Bar:
+  enable: true
+  nameEnable: true
+  style: text
+  #text, <3, l, O
+  alwaysShownEnable: false
+  hideTime: 3
+  epicBoss : false
+
+stylesType:
+  Animals:
+    enable: true
+    color: YELLOW
+    nameEnable: true
+    style: text
+    alwaysShownEnable: false
+    hideTime: 2
+
+
